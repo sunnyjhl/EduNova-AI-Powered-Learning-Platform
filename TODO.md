@@ -1,0 +1,11 @@
+- [ ] Create top-level package.json, .env.example
+- [ ] Create client (Vite + React + TS + Tailwind) with full src structure
+- [ ] Create server (Express + TS + Mongo/Mongoose) with full API routes/controllers/models/middleware
+- [ ] Implement auth (register/login JWT + bcrypt) and protected routes
+- [ ] Implement course browsing/details + admin course management
+- [ ] Implement student dashboard pages + AI assistant UI (mock responses)
+- [ ] Implement responsive premium UI (dark neon + glassmorphism + animations + toasts)
+- [ ] Wire frontend to backend via Axios with proper auth handling
+- [ ] Add seed script for demo data
+- [ ] Add README with setup/run commands
+- [ ] Run build/test commands to ensure no runtime errors
